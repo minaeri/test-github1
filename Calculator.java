@@ -18,3 +18,7 @@ priate static int sum(int a, int b){
 priate static int minus(int a, int b){
     return a-b;
 }
+
+priate static int multi(int a, int b){
+    return a*b;
+}
